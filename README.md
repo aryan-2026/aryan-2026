@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
 <h3 align="center">A Technophile who love to learn new things.</h3>
 
-<image src="https://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47it023iw8n20hxj7q8ckicqqnfl8p7s7xz0zcnfgh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Image" align="right" width="360"> 
+<image src="https://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47it023iw8n20hxj7q8ckicqqnfl8p7s7xz0zcnfgh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Image" align="right" width="350"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-2026&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-2026" /> </p>
 
