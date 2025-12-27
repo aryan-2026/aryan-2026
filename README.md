@@ -1,33 +1,127 @@
 ![logo](https://github.com/aryan-2026/aryan-2026/blob/main/Neon%20Glitch%20Twitch%20Banner%20.gif)
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
-<h3 align="center">A Technophile who love to learn new things.</h3>
+<h3 align="center">Cybersecurity | SOC | DevSecOps | Cloud & Network Security</h3>
 
-<image src="https://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47it023iw8n20hxj7q8ckicqqnfl8p7s7xz0zcnfgh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Image" align="right" width="350"> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-2026&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-2026" /> </p>
-
-- 🌱 I’m currently learning Back-end Development **Python, Django**
-
-- 📫 How to reach me **sharmaaryanpro@gmail.com**
-
-- ⚡ Fun fact **I am a party guy🥳**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aryan_sharma315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan_sharma315" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aryan sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/aryansharma2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryansharma2026" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aryan_sharma15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryan_sharma15" height="30" width="40" /></a>
-
-
+<p align="center">
+  <a href="https://github.com/aryan-2026"><img src="https://img.shields.io/github/followers/aryan-2026?label=GitHub&style=social" /></a>
+  <a href="https://www.linkedin.com/in/aryan-sharma-9b9954257/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
+  <a href="mailto:sharmaaryanpro@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
+---
 
-# 📊 GitHub Stats:
-[![aryan-2026's GitHub | Stats](https://stats.quine.sh/aryan-2026/github?theme=dark)](https://quine.sh)
-[![aryan-2026's GitHub | Languages Over Time](https://stats.quine.sh/aryan-2026/languages-over-time?theme=dark)](https://quine.sh)  
-[![aryan-2026's GitHub | Topics Over Time](https://stats.quine.sh/aryan-2026/topics-over-time?theme=dark)](https://quine.sh)  
+## 🚀 About Me
+
+I'm a **Cybersecurity enthusiast and SOC intern** with hands-on experience in **threat detection, incident analysis, penetration testing, and DevSecOps pipelines**.  
+I enjoy working on **real-world security problems**, building **automation tools**, and securing systems using **industry frameworks like MITRE ATT&CK and NIST**.
+
+- 🎓 **B.Tech CSE (CSIT)** @ KIET Group of Institutions (CGPA: 8.0)
+- 🔐 SOC Intern @ CISAI (ISEA Program)
+- 🧪 Penetration Testing Intern @ HackersForYou
+- 🛠️ Strong interest in **Cloud Security, DevSecOps & Security Automation**
+- 🏆 Top 5% globally on **TryHackMe**
+- 🎯 Active CTF player & security community contributor
+
+---
+
+## 🛡️ Cybersecurity & DevSecOps Skills
+
+### 🔍 Security & SOC
+- SIEM Monitoring & Alert Analysis (BDSAP, Wazuh)
+- Incident Investigation & Reporting
+- Threat Mapping using **MITRE ATT&CK**
+- Security Controls aligned with **NIST**
+- Vulnerability Assessment & Penetration Testing (OWASP Top 10)
+
+### ⚙️ DevSecOps & Cloud
+- CI/CD Security (Jenkins, SonarQube, Trivy)
+- Dockerized Security Workflows
+- Azure VM Deployments
+- Secure GitHub Workflows
+- Infrastructure & Pipeline Hardening
+
+### 🌐 Networking & OS
+- Computer Networking (CCNA-level)
+- Linux Security & Hardening
+- Windows & Linux Auditing
+- Packet Analysis (Wireshark)
+
+---
+
+## 🧰 Tools & Technologies
+
+**Languages**  
+`Python` `C/C++` `SQL` `HTML/CSS`
+
+**Security Tools**  
+`Nmap` `Burp Suite` `Wireshark` `Metasploit`  
+`Wazuh` `Nessus` `SIEM`
+
+**DevOps / Cloud**  
+`Docker` `Jenkins` `Azure` `Git/GitHub` `Kubernetes`
+
+**Frameworks**  
+`MITRE ATT&CK` `NIST`
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Automated CIS Benchmark Auditing Tool
+- Automated auditing of **CIS benchmarks for Linux**
+- OS detection, dependency handling & GUI-based execution
+- Designed for **security compliance & hardening**
+- **Tech:** Python, HTML, CIS Benchmarks
+
+### 🔹 3-Tier DevSecOps CI/CD Pipeline
+- Secure CI/CD pipeline using Jenkins, Docker & SonarQube
+- Integrated static analysis and container security
+- Deployed on Azure VM
+- **Tech:** Jenkins, Docker, Azure, SonarQube
+
+### 🔹 Browser & Extension Monitoring using Wazuh
+- Extracted browser history & extension metadata
+- Forwarded logs to Wazuh agent in JSON format
+- Custom detection rules & Kibana dashboards
+- **Tech:** Python, Wazuh, Docker
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Top 10 in **10+ CTF competitions**
+- 🥈 1st Runner-up – *Hack the Market* (Endeavour’23)
+- 🌍 Top 5% globally on **TryHackMe**
+
+---
+
+## 📜 Certifications
+
+- **CCNA (Cisco NetAcad)**
+- **Certified AppSec Practitioner (CAP)**
+- **Certified API Security Analyst (CASA)**
+- **CCSK v4.1 Foundation Training**
+
+---
+
+## 🤝 Community & Leadership
+
+**Wipro Cyber Security Centre (CoE) & NULL Chapter – KIET**
+- Core Team Member
+- Led a team of 30 members
+- Organized 10+ workshops & security bootcamps
+- Conducted awareness sessions for 200+ participants
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 📧 Email: sharmaaryanpro@gmail.com
+- 💻 GitHub: https://github.com/aryan-2026
+
+---
+
+⭐ *If you like my work, feel free connect!*  
 
 
