@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/aryan-sharma-9b9954257/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
   <a href="mailto:sharmaaryanpro@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" /></a>
   <a href="https://medium.com/@aryanpro00715"><img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/crack007"><img src="https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/crack007"><img src="https://img.shields.io/badge/TryHackMe-Profile-green?logo=tryhackme&logoColor=white" /></a>
 
 </p>
 
