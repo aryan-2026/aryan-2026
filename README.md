@@ -51,20 +51,43 @@ I enjoy working on **real-world security problems**, building **automation tools
 
 ---
 
-## 🧰 Tools & Technologies
 
-**Languages**  
-`Python` `C/C++` `SQL` `HTML/CSS`
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML/CSS-E34F26?logo=html5&logoColor=white)
 
-**Security Tools**  
-`Nmap` `Burp Suite` `Wireshark` `Metasploit`  
-`Wazuh` `Nessus` `SIEM`
+---
 
-**DevOps / Cloud**  
-`Docker` `Jenkins` `Azure` `Git/GitHub` `Kubernetes`
+### 🔐 Tools
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?logo=tenable&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?logo=wazuh&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-red)
+![n8n](https://img.shields.io/badge/n8n-Automation-FF6D00?logo=n8n&logoColor=white)
 
-**Frameworks**  
-`MITRE ATT&CK` `NIST`
+---
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![GitHub](https://img.shields.io/badge/Git-GitHub-181717?logo=github&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
+
+---
+
+### 📚 Frameworks & Standards
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
+![NIST](https://img.shields.io/badge/NIST-Framework-003366)
+
 
 ---
 
